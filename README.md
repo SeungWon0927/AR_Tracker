@@ -6,7 +6,7 @@ Created in Unity Ver 2019.2.18f1
 Mainly used C# and googleARCore assets
 
 Part 1: 
-The application can create planes tracked by the ARCore. The user can place real-life objects on planes tracked by ARCore.
+The application can create virtual grids on real ground tracked by the ARCore. 
 
 Part 2:  
 The application can track 2 different images and play 2 different videos based on which image it detects.
